@@ -1,16 +1,6 @@
 # catalogapp
 
-A new Flutter project.
+![Screenshot_1632212083](https://user-images.githubusercontent.com/74593517/134138322-e4abe9da-ad56-4f79-bcb7-de26008b6b24.png)
+![Screenshot_1632212087](https://user-images.githubusercontent.com/74593517/134138337-c6b0d055-56bb-417f-b801-ed094f458f82.png)
+![Screenshot_1632212090](https://user-images.githubusercontent.com/74593517/134138354-40562900-3f63-49ce-a8e6-c93b4b14bcd6.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
